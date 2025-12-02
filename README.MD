@@ -14,6 +14,8 @@ https://aiot-hw5.streamlit.app/
 
 純本地運算模擬： 不依賴任何外部 API Key，專為教學與 UI 測試設計。
 
+檔案上傳： 支援上傳 .txt 格式的文本檔案進行分析。
+
 視覺化高亮： 模仿專業偵測工具，將文本區塊標記為 AI（紅色）或人類（綠色）。
 
 理論模擬： 應用程式的判斷邏輯參考了 Perplexity、Burstiness 和 Stylometry 等 AI 偵測的關鍵理論指標。
